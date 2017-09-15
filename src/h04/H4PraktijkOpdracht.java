@@ -28,7 +28,7 @@ public class H4PraktijkOpdracht extends Applet {
         g.drawOval(650, 350, 175, 175);
         g.drawString("gevulde ovaal", 400, 525);
         g.drawString("cirkel", 725, 540);
-
+        
 
 
 
