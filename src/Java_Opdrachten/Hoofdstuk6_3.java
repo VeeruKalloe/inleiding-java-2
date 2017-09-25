@@ -10,7 +10,7 @@ public class Hoofdstuk6_3 extends Applet {
 
      public void init() {
                 super.init();
-                positiefgetal1 = 2147483;
+                positiefgetal1 = 2147483647;
                 positiefgetal2 = 1;
 
                 uitkomst = (positiefgetal1 + positiefgetal2);
